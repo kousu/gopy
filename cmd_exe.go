@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/go-python/gopy/bind"
+	"github.com/kousu/gopy/bind"
 	"github.com/gonuts/commander"
 	"github.com/gonuts/flag"
 )
